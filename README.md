@@ -89,6 +89,7 @@ Environment Management: python-dotenv
 paper2code/
 │
 ├── app.py
+├── UI.py
 ├── agents/
 │   ├── reader.py
 │   ├── analyzer.py
@@ -135,8 +136,7 @@ Place your PDF in the project root:
 paper.pdf
 
 2️⃣ Run the Application
-python app.py
-
+streamlit run UI.py
 3️⃣ Output
 
 After execution, the system generates:
