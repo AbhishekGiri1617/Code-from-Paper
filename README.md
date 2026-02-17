@@ -86,6 +86,7 @@ PDF Parsing: PyPDFLoader
 Environment Management: python-dotenv
 
 📁 Project Structure
+
 paper2code/
 │
 ├── app.py
@@ -111,7 +112,7 @@ paper2code/
 
 ⚙️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/paper2code.git
+git clone https://github.com/your-username/paper2code.git](https://github.com/AbhishekGiri1617/Code-from-Paper.git
 cd paper2code
 
 2️⃣ Create Virtual Environment
@@ -198,45 +199,4 @@ class Model(nn.Module):
 
 🧠 Human-in-the-loop review system
 
-🤝 Contributing
 
-Contributions are welcome!
-
-Fork the repository
-
-Create a feature branch
-
-Commit your changes
-
-Open a Pull Request
-
-📜 License
-
-This project is licensed under the MIT License.
-
-👤 Author
-
-Abhishek Giri
-AI/ML & Generative AI Enthusiast
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-⭐ Acknowledgements
-
-LangChain
-
-LangGraph
-
-Groq
-
-HuggingFace
-
-FAISS
-
-Open Source Community
-
-📬 Contact
-
-For questions, suggestions, or collaborations, feel free to reach out via GitHub or LinkedIn.
