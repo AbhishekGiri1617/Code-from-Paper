@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+pypdf
+python-dotenv
+fastapi
+uvicorn
+torch
+transformers
+sentence-transformers

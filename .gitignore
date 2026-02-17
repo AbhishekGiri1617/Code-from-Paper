@@ -1,0 +1,4 @@
+venv
+.env
+Paper.pdf
+generated_code
